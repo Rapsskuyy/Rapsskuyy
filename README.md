@@ -76,11 +76,10 @@ aspiration: University Scholarship (Computer Science / Software Engineering) & B
 
 | Project | Tech Stack | Kategori | Deskripsi Singkat |
 | :--- | :--- | :--- | :--- |
-| **📦 Sarpras (Sistem Peminjaman Barang)** | `Laravel` `MySQL` `Bootstrap` | Web App | Sistem manajemen inventaris dan sirkulasi peminjaman fasilitas sekolah untuk siswa & guru. |
-| **✈️ Wandek Airlines** | `Laravel` `MySQL` `Bootstrap` | Web App | Platform booking tiket pesawat dengan pengelolaan rute penerbangan, jadwal, dan booking flow. |
-| **🎓 PT Komari - Web Kursus Online** | `Laravel` `MySQL` `Bootstrap` | Web App | Platform e-learning dengan katalog kursus, pendaftaran siswa, dan dashboard pelacakan progres belajar. |
-| **🍔 Canteen SMKN 1 Depok** | `Kotlin` `Java` `Android Studio` | Mobile App | Aplikasi Android untuk katalog pesanan makanan & minuman serta pencatatan transaksi kantin sekolah. |
-| **🎨 3D Modeling Ruang Kelas & Pedang** | `Blender` | 3D Assets | Model 3D detail objek interior ruang kelas dan tekstur material aset untuk simulasi grafis. |
+| **🤖 [System X AI Assistant](https://github.com/Rapsskuyy/System-X-AI-assistant)** | `Python` `Hermes Agent` | AI Assistant | Asisten personal dengan rancangan ringkasan percakapan grup berbasis allowlist dan reminder khusus owner. |
+| **🗳️ E-Voting** | Web App | Sistem Informasi | Aplikasi pemungutan suara digital untuk membantu proses voting yang lebih terstruktur. |
+| **📦 [SarprasSMKN1DEPOK](https://github.com/Rapsskuyy/SarprasSMKN1DEPOK)** | `Laravel` `MySQL` `Bootstrap` | Web App | Sistem manajemen inventaris dan peminjaman sarana-prasarana SMKN 1 Depok. |
+| **🌐 [Portfolio](https://github.com/Rapsskuyy/portofolio)** | Web Portfolio | Personal Website | Portofolio personal yang menampilkan profil, kemampuan, dan proyek-proyek yang telah dikerjakan. |
 
 ---
 
